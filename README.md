@@ -94,3 +94,8 @@ uncovering:\
 -   **SQL**
 
 ------------------------------------------------------------------------
+
+## 🔄 Data Analysis Pipeline  
+
+![Amazon Sales Data Analysis Pipeline](amazon_pipeline.png)
+
